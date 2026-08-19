@@ -70,3 +70,41 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+
+# ==========================================
+# Runtime logs and temporary files
+# ==========================================
+logs/
+tmp/
+*.log
+
+# ==========================================
+# Intermediate / provenance metadata
+# ==========================================
+data/metadata/
+metadata/ena_run_metadata.tsv
+metadata/geo_sample_metadata.tsv
+metadata/sample_metadata.tsv
+
+# ==========================================
+# Derived annotation/intermediate QC
+# ==========================================
+results/annotation/
+results/fastqc/
+results/reference_checks/
+results/qc_summary.tsv
+results/runs_from_accession.txt
+results/runs_from_metadata.txt
+
+# ==========================================
+# Paired sensitivity/intermediate tables
+# ==========================================
+results/deseq2_paired/paired_without33_DESeq2_results.tsv
+
+# ==========================================
+# Enrichment intermediate mappings
+# ==========================================
+results/enrichment_paired_final/PD_up_mapping.tsv
+results/enrichment_paired_final/PD_down_mapping.tsv
+results/enrichment_paired_final/background_mapping.tsv
+results/enrichment_paired_final/paired_GSEA_ranked_genes.tsv
