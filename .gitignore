@@ -1,42 +1,72 @@
-# ==============================
+
+# ==========================================
 # Raw sequencing data
-# ==============================
+# ==========================================
 data/raw/
+
 *.fastq
 *.fastq.gz
-*.sra
+*.fq
+*.fq.gz
 
-# ==============================
-# Reference genome / annotation
-# ==============================
+# ==========================================
+# Reference genome / annotation / indices
+# ==========================================
 data/reference/
 
-# ==============================
+*.ht2
+*.fa
+*.fasta
+*.fna
+
+# ==========================================
 # Alignment files
-# ==============================
-*.sam
+# ==========================================
+results/alignment/
+
 *.bam
 *.bai
+*.sam
 
-# ==============================
-# Generated analysis results
-# ==============================
-results/
+# ==========================================
+# Large/intermediate count files
+# ==========================================
+results/counts/
 
-# ==============================
-# Log files
-# ==============================
-logs/
-*.log
+# ==========================================
+# Old exploratory unpaired analyses
+# Final analysis uses paired design
+# ==========================================
+results/deseq2/
+results/enrichment/
+results/gsea/
+results/core_pathways/
 
-# ==============================
-# Temporary files
-# ==============================
-tmp/
-temp/
-*.tmp
+# ==========================================
+# Large R serialized objects
+# ==========================================
+*.rds
+*.RData
+*.Rhistory
 
-# ==============================
-# Environment / secrets
-# ==============================
-.env
+# ==========================================
+# Large full GSEA tables
+# Keep significant tables instead
+# ==========================================
+results/enrichment_paired_final/*_all.tsv
+
+# ==========================================
+# Conda / Python / editor temporary files
+# ==========================================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# ==========================================
+# OS temporary files
+# ==========================================
+.DS_Store
+Thumbs.db
+
