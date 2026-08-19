@@ -18,6 +18,37 @@ with Healthy used as the reference condition.
 
 ---
 
+## Key Results at a Glance
+
+The final paired DESeq2 model (`~ pair + condition`) identified **1,207 differentially expressed genes** between Parkinson's disease and healthy NPCs.
+
+A sensitivity analysis excluding the PCA-outlier sample retained **1,066 robust DEGs**, with **100% direction concordance** among common significant genes.
+
+Major transcriptomic patterns included:
+
+- decreased cilium, axoneme and intraflagellar-transport programs,
+- altered WNT-associated developmental signaling,
+- reduced neuronal/NMDA-associated signaling,
+- increased ribosome-biogenesis, rRNA-processing and translation-associated programs.
+
+### Paired differential expression
+
+![Paired PD vs Healthy volcano plot](figures/paired_volcano_PD_vs_Healthy.png)
+
+### Top robust differentially expressed genes
+
+![Top 30 robust DEG heatmap](figures/paired_top30_robust_DEG_heatmap.png)
+
+### GO Biological Process GSEA
+
+![GO BP GSEA](figures/GSEA_GO_BP_paired_dotplot.png)
+
+### Reactome GSEA
+
+![Reactome GSEA](figures/GSEA_Reactome_paired_dotplot.png)
+
+---
+
 ## Experimental Design
 
 The dataset contains 12 single-end RNA-seq samples.
