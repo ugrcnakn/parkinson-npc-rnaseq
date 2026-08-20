@@ -483,3 +483,13 @@ End-to-end RNA-seq analysis completed.
 Raw FASTQ -> alignment -> quantification -> paired differential expression ->
 sensitivity analysis -> enrichment -> GSEA -> biological interpretation.
 
+
+## iPSC Companion Analysis
+
+This repository now also includes the analysis of the 12 iPSC RNA-seq libraries from the same GSE185009 twin study.
+
+The iPSC workflow, results, enrichment analyses, and direct iPSC-vs-NPC comparison are available here:
+
+**[View the iPSC analysis](ipsc/README.md)**
+
+Together, the NPC and iPSC analyses cover all 24 RNA-seq libraries from the study and allow comparison of Parkinson-associated transcriptomic signals across two cellular states.

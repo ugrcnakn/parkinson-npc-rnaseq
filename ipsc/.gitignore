@@ -1,0 +1,85 @@
+# ============================================================
+# Raw sequencing data
+# ============================================================
+data/raw/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.sra
+
+# ============================================================
+# Reference genome / indices
+# ============================================================
+data/reference/
+*.fa
+*.fasta
+*.fna
+*.gtf
+*.gff
+*.ht2
+
+# ============================================================
+# Alignment files
+# ============================================================
+results/alignment/bam/
+*.bam
+*.bai
+*.sam
+
+# HISAT2 individual logs
+results/alignment/logs/
+
+# ============================================================
+# FastQC raw reports
+# ============================================================
+results/fastqc/
+
+# ============================================================
+# Large / intermediate count matrices
+# ============================================================
+results/counts/gene_counts.txt
+results/counts/gene_counts.txt.summary
+results/counts/count_matrix.tsv
+results/counts/strandedness_test/
+
+# ============================================================
+# Large DESeq2 intermediate tables
+# ============================================================
+results/deseq2_paired/normalized_counts.tsv
+results/deseq2_paired/paired_all_results.tsv
+results/deseq2_paired/paired_significant_DEGs.tsv
+results/deseq2_paired/paired_PD_up.tsv
+results/deseq2_paired/paired_PD_down.tsv
+results/deseq2_paired/final/paired_all_results_annotated.tsv
+results/deseq2_paired/sample_correlation_matrix.tsv
+
+# ============================================================
+# Large cross-cell-state intermediate table
+# ============================================================
+results/ipsc_vs_npc/all_shared_tested_genes_iPSC_NPC.tsv
+results/ipsc_vs_npc/NPC_only_1016_robust_genes.tsv
+results/ipsc_vs_npc/iPSC_only_213_robust_genes.tsv
+
+# ============================================================
+# Logs
+# ============================================================
+logs/
+*.log
+
+# ============================================================
+# Temporary / helper files
+# ============================================================
+results_file_list.txt
+important_outputs.txt
+
+# ============================================================
+# OS/editor files
+# ============================================================
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Reference symlink itself
+data/reference

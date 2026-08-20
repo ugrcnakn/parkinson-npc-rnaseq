@@ -1,0 +1,277 @@
+source	pathway	NES	padj	entrez	symbol
+GO_BP	liver development	1.78369507249772	0.0106531824984443	54206	ERRFI1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	3720	JARID2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	8140	SLC7A5
+GO_BP	liver development	1.78369507249772	0.0106531824984443	5106	PCK2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	1854	DUT
+GO_BP	liver development	1.78369507249772	0.0106531824984443	2735	GLI1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	255738	PCSK9
+GO_BP	liver development	1.78369507249772	0.0106531824984443	5727	PTCH1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	5311	PKD2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	25807	RHBDD3
+GO_BP	liver development	1.78369507249772	0.0106531824984443	4124	MAN2A1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	23242	COBL
+GO_BP	liver development	1.78369507249772	0.0106531824984443	6209	RPS15
+GO_BP	liver development	1.78369507249772	0.0106531824984443	6426	SRSF1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	3988	LIPA
+GO_BP	liver development	1.78369507249772	0.0106531824984443	7494	XBP1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	4233	MET
+GO_BP	liver development	1.78369507249772	0.0106531824984443	3184	HNRNPD
+GO_BP	liver development	1.78369507249772	0.0106531824984443	5906	RAP1A
+GO_BP	liver development	1.78369507249772	0.0106531824984443	10269	ZMPSTE24
+GO_BP	liver development	1.78369507249772	0.0106531824984443	595	CCND1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	55959	SULF2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	445	ASS1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	51599	LSR
+GO_BP	liver development	1.78369507249772	0.0106531824984443	1374	CPT1A
+GO_BP	liver development	1.78369507249772	0.0106531824984443	382	ARF6
+GO_BP	liver development	1.78369507249772	0.0106531824984443	23607	CD2AP
+GO_BP	liver development	1.78369507249772	0.0106531824984443	4864	NPC1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	5111	PCNA
+GO_BP	liver development	1.78369507249772	0.0106531824984443	6670	SP3
+GO_BP	liver development	1.78369507249772	0.0106531824984443	55679	LIMS2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	34	ACADM
+GO_BP	liver development	1.78369507249772	0.0106531824984443	26019	UPF2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	4192	MDK
+GO_BP	liver development	1.78369507249772	0.0106531824984443	11231	SEC63
+GO_BP	liver development	1.78369507249772	0.0106531824984443	2146	EZH2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	1386	ATF2
+GO_BP	liver development	1.78369507249772	0.0106531824984443	87178	PNPT1
+GO_BP	liver development	1.78369507249772	0.0106531824984443	1054	CEBPG
+GO_BP	liver development	1.78369507249772	0.0106531824984443	10419	PRMT5
+GO_BP	liver development	1.78369507249772	0.0106531824984443	3845	KRAS
+GO_BP	liver development	1.78369507249772	0.0106531824984443	1051	CEBPB
+GO_BP	liver development	1.78369507249772	0.0106531824984443	6881	TAF10
+GO_BP	liver development	1.78369507249772	0.0106531824984443	3725	JUN
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	54206	ERRFI1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	3720	JARID2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	8140	SLC7A5
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	5106	PCK2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	1854	DUT
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	2735	GLI1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	255738	PCSK9
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	5727	PTCH1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	5311	PKD2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	25807	RHBDD3
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	4124	MAN2A1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	23242	COBL
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	6209	RPS15
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	6426	SRSF1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	3988	LIPA
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	7494	XBP1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	4233	MET
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	3184	HNRNPD
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	5906	RAP1A
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	10269	ZMPSTE24
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	595	CCND1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	55959	SULF2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	445	ASS1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	51599	LSR
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	1374	CPT1A
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	382	ARF6
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	23607	CD2AP
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	4864	NPC1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	5111	PCNA
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	6670	SP3
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	55679	LIMS2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	34	ACADM
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	26019	UPF2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	4192	MDK
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	11231	SEC63
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	2146	EZH2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	1386	ATF2
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	87178	PNPT1
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	1054	CEBPG
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	10419	PRMT5
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	3845	KRAS
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	1051	CEBPB
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	6881	TAF10
+GO_BP	hepaticobiliary system development	1.74441759748083	0.016724359320214	3725	JUN
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	1112	FOXN3
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	64175	P3H1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	6714	SRC
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	7048	TGFBR2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	4853	NOTCH2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	51360	MBTPS2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	79065	ATG9A
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	2734	GLG1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	2132	EXT2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	3292	HSD17B1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	26585	GREM1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	81792	ADAMTS12
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	23213	SULF1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	2121	EVC
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	1305	COL13A1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	80207	OPA3
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	7052	TGM2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	633	BGN
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	5608	MAP2K6
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	79001	VKORC1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	4090	SMAD5
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	4882	NPR2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	9350	CER1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	4208	MEF2C
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	54808	DYM
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	302	ANXA2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	23508	TTC9
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	139285	AMER1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	3953	LEPR
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	1281	COL3A1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	4054	LTBP3
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	54928	BPNT2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	3636	INPPL1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	8642	DCHS1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	29887	SNX10
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	2737	GLI3
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	133308	SLC9B2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	2200	FBN1
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	59341	TRPV4
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	7468	NSD2
+GO_BP	bone development	-1.52026445530644	0.0440633908326626	1280	COL2A1
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	6233	RPS27A
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	8334	H2AC6
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	3020	H3-3A
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5692	PSMB4
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	8970	H2BC11
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5691	PSMB3
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5695	PSMB7
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5686	PSMA5
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5687	PSMA6
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5693	PSMB5
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5689	PSMB1
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5702	PSMC3
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	8353	H3C6
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5694	PSMB6
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	8355	H3C8
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	10213	PSMD14
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	10413	YAP1
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5717	PSMD11
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5688	PSMA7
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5719	PSMD13
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5700	PSMC1
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5701	PSMC2
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	7979	SEM1
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5713	PSMD7
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	9861	PSMD6
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	7314	UBB
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	8365	H4C8
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5707	PSMD1
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	11047	ADRM1
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	3017	H2BC5
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5706	PSMC6
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	7311	UBA52
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	85236	H2BC12
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5684	PSMA3
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5683	PSMA2
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	7316	UBC
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	121504	H4C16
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	1022	CDK7
+Reactome	RUNX1 regulates transcription of genes involved in differentiation of HSCs	2.50713895685018	2.16571428571429e-09	5708	PSMD2
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	8334	H2AC6
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5436	POLR2G
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	3020	H3-3A
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	8970	H2BC11
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5087	PBX1
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	8353	H3C6
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	8355	H3C8
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5435	POLR2F
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	8365	H4C8
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	3017	H2BC5
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5441	POLR2L
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5916	RARG
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	85236	H2BC12
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5929	RBBP5
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5432	POLR2C
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	121504	H4C16
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	2146	EZH2
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	84661	DPY30
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	84962	AJUBA
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	8294	H4C9
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	10664	CTCF
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	9125	CNOT9
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5928	RBBP4
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	8339	H2BC8
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	5316	PKNOX1
+Reactome	Activation of anterior HOX genes in hindbrain development during early embryogenesis	1.61903040825311	0.0236199481009365	3725	JUN
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	8334	H2AC6
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5436	POLR2G
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	3020	H3-3A
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	8970	H2BC11
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5087	PBX1
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	8353	H3C6
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	8355	H3C8
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5435	POLR2F
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	8365	H4C8
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	3017	H2BC5
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5441	POLR2L
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5916	RARG
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	85236	H2BC12
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5929	RBBP5
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5432	POLR2C
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	121504	H4C16
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	2146	EZH2
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	84661	DPY30
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	84962	AJUBA
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	8294	H4C9
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	10664	CTCF
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	9125	CNOT9
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5928	RBBP4
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	8339	H2BC8
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	5316	PKNOX1
+Reactome	Activation of HOX genes during differentiation	1.61903040825311	0.0236199481009365	3725	JUN
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	79083	MLPH
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	3397	ID1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	201595	STT3B
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	51520	LARS1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	3376	IARS1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	4174	MCM5
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	6595	SMARCA2
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	523	ATP6V1A
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	3094	HINT1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	533	ATP6V0B
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	7529	YWHAB
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	7341	SUMO1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	7391	USF1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	9550	ATP6V1G1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	4233	MET
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	27022	FOXD3
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	6599	SMARCC1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	595	CCND1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	5917	RARS1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	27327	TNRC6A
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	8600	TNFSF11
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	8193	DPF1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	7534	YWHAZ
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	3815	KIT
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	2058	EPRS1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	4141	MARS1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	60	ACTB
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	8992	ATP6V0E1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	7514	XPO1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	4343	MOV10
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	23112	TNRC6B
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	10085	EDIL3
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	9521	EEF1E1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	528	ATP6V1C1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	4254	KITLG
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	83439	TCF7L1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	86	ACTL6A
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	4171	MCM2
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	5829	PXN
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	3662	IRF4
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	4286	MITF
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	10891	PPARGC1A
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	23411	SIRT1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	23405	DICER1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	1910	EDNRB
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	3735	KARS1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	1499	CTNNB1
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	57492	ARID1B
+Reactome	MITF-M-regulated melanocyte development	1.57859251545045	0.0249780590099221	5054	SERPINE1
+Reactome	Developmental Lineage of Mammary Gland Luminal Epithelial Cells	1.79433165259138	0.0389681465609764	3875	KRT18
+Reactome	Developmental Lineage of Mammary Gland Luminal Epithelial Cells	1.79433165259138	0.0389681465609764	100133941	CD24
+Reactome	Developmental Lineage of Mammary Gland Luminal Epithelial Cells	1.79433165259138	0.0389681465609764	2064	ERBB2
+Reactome	Developmental Lineage of Mammary Gland Luminal Epithelial Cells	1.79433165259138	0.0389681465609764	960	CD44
+Reactome	Developmental Lineage of Mammary Gland Luminal Epithelial Cells	1.79433165259138	0.0389681465609764	3688	ITGB1
+Reactome	Developmental Lineage of Mammary Gland Luminal Epithelial Cells	1.79433165259138	0.0389681465609764	4072	EPCAM
+Reactome	Developmental Lineage of Mammary Gland Luminal Epithelial Cells	1.79433165259138	0.0389681465609764	3815	KIT
